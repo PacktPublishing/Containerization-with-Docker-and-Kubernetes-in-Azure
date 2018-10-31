@@ -32,6 +32,7 @@ This course has the following software requirements:<br/>
 Docker	<br/>
 Browser: Google Chrome<br/>
 Azure CLI <br/>
+kubectl<br/>
 VSCode <br/>
 
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
