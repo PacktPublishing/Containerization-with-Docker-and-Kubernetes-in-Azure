@@ -1,5 +1,3 @@
-# Containerization-with-Docker-and-Kubernetes-in-Azure
-Containerization with Docker and Kubernetes in Azure, Published by Packt
 # Containerization with Docker and Kubernetes in Azure [Video]
 This is the code repository for [Containerization with Docker and Kubernetes in Azure [Video]](https://www.packtpub.com/virtualization-and-cloud/containerization-docker-and-kubernetes-azure-video), published by [Packt](https://www.packtpub.com/?utm_source=github). 
 It contains all the supporting project files necessary to work through the video course from start to finish.
