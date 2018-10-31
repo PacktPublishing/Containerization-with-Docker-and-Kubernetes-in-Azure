@@ -29,9 +29,8 @@ DevOps engineers, architects, and developers who are interested in learning all 
 to practically configure, manage and deploy applications on Azure Cloud, will benefit from this course.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-
 Docker	<br/>
-Browser: Google Chrome
+Browser: Google Chrome<br/>
 Azure CLI <br/>
 VSCode <br/>
 
