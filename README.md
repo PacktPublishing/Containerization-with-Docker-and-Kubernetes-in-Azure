@@ -48,7 +48,3 @@ Storage: 500Gb<br/>
 
 * [Hands-On Big Data Analysis with Hadoop 3 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-big-data-analysis-hadoop-3-video)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789808575">https://packt.link/free-ebook/9781789808575 </a> </p>
